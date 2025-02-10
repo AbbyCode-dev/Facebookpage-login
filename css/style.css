@@ -103,6 +103,7 @@ input[type="checkbox"] {
 } 
 
 /* Responsive Design */
+
 @media (max-width: 461px) {
     div.header {
         width: 100%;
@@ -288,6 +289,8 @@ option[value="year"] {
     text-decoration: underline;
     color: #232e38d2;
 }
+
+/* Responsive Design */
 
 @media (max-width: 495px) {
     .label {
